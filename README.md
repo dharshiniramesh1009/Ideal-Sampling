@@ -198,7 +198,4 @@ plt.show()
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/0c9ce0af-d14a-4081-b841-7091b103d46b" />
 
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+The experiment was successfully executed.
